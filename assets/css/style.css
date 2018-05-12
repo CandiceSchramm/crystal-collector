@@ -1,0 +1,61 @@
+body{
+    background-size: cover;
+    background-image:url("https://images4.alphacoders.com/796/796018.png")
+}
+.container{
+    margin:2% 10% 5% 10%;
+}
+.title{
+    padding: 2%;
+    margin: 4% 0% 0% 0%;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+.intructions{
+    background-color:gray;
+    padding:2% 2% 2% 2%;
+    width:65%;
+    border-style:solid;
+    border-width:5px;
+    border-color:green;
+    position:relative;
+    left:15%;
+}
+.instructions-paragragh{
+    margin:1%
+}
+.gem-pic{
+    width:100px;;
+    height:auto;
+    margin: 2% 1% 0% 1%;
+    border-style:solid;
+    border-width:2px;
+    border-color:black;
+}
+.gems{
+    text-align: center;
+}
+.stats{
+    margin: 3%;
+    background-color: gray;
+    padding:2% 2% 2% 2%;
+    width:25%;
+    border-style:solid;
+    border-width:5px;
+    border-color:green;
+    position:relative;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+.goal-number{
+    font-size: 20px;
+    font-weight: 600;
+}
+.your-points-are{
+    font-size: 19px;
+}
+.scorecard{
+    margin-top:5%;
+}
+
